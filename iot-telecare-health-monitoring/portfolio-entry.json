@@ -1,0 +1,24 @@
+{
+  "title": "IoT Telecare System for Real-Time Health Monitoring",
+  "slug": "iot-telecare-health-monitoring",
+  "year": "2025",
+  "category": "Embedded Biomedical Systems & IoT",
+  "summary": "Wearable-to-cloud telecare proof of concept integrating BLE, Arduino, ThingSpeak and SMS alerts.",
+  "technologies": [
+    "Arduino C++",
+    "Espruino JavaScript",
+    "BLE",
+    "Wi-Fi",
+    "ThingSpeak",
+    "GSM/SIM900"
+  ],
+  "highlights": [
+    "Smartwatch sensor acquisition",
+    "BLE data transmission",
+    "Cloud telemetry dashboard",
+    "Threshold-based SMS prototype"
+  ],
+  "image": "assets/hardware-setup.jpg",
+  "repo_url": "REPLACE_WITH_YOUR_GITHUB_REPOSITORY_URL",
+  "verification": "Academic prototype, not clinical validation."
+}
